@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+hello people
+
+Am Jasper and I like programing, just like that.
+Thank you!
